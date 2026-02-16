@@ -88,3 +88,18 @@ This project was created from local ststem. -->
 
 # git diff <--branch name-->
   Use :- to compare commits, branches,files & more
+
+# git merge <--branch name-->
+  Use :- merge branch
+
+
+----------------------------------------------------------------
+
+<----------------- Github ma merge code ne local ma show karva ------------------->
+
+
+# git pull origin main
+  Use :- Github ma changing merge code ne loacl ma show karva
+
+
+
