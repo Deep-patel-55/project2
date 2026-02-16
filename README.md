@@ -80,3 +80,11 @@ This project was created from local ststem. -->
 
 # git branch -d <--branch name-->
   Use :- branch ne delete karva
+
+
+----------------------------------------------------------------
+
+<----------------- branch Merge ------------------->
+
+# git diff <--branch name-->
+  Use :- to compare commits, branches,files & more
